@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-pro-remastered",
+    "displayName": "one-dark-pro-remastered",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "one-dark-pro-remastered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-dark-pro-remastered-color-theme.json"
+            }
+        ]
+    }
+}

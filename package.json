@@ -1,6 +1,6 @@
 {
-    "name": "one-dark-pro-remastered",
-    "displayName": "one-dark-pro-remastered",
+    "name": "origin",
+    "displayName": "origin",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "one-dark-pro-remastered",
+                "label": "origin",
                 "uiTheme": "vs-dark",
-                "path": "./themes/one-dark-pro-remastered-color-theme.json"
+                "path": "./themes/origin-color-theme.json"
             }
         ]
     }

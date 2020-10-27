@@ -196,7 +196,7 @@
 		"name": "math property js/ts",
 		"scope": "support.constant.property.math",
 		"settings": {
-		  "foreground": "#d19a66"
+		  "foreground": "#E6DB74"
 		}
 	  },
 	  {
@@ -325,28 +325,28 @@
 		"name": "js/ts module",
 		"scope": "support.module.node,support.type.object.module,support.module.node",
 		"settings": {
-		  "foreground": "#e5c07b"
+		  "foreground": "#E6DB74"
 		}
 	  },
 	  {
 		"name": "entity.name.type.module",
 		"scope": "entity.name.type.module",
 		"settings": {
-		  "foreground": "#e5c07b"
+		  "foreground": "#E6DB74"
 		}
 	  },
 	  {
 		"name": "js variable readwrite",
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
-		  "foreground": "#e06c75"
+		  "foreground": "#F92672"
 		}
 	  },
 	  {
 		"name": "js/ts json",
 		"scope": "support.constant.json",
 		"settings": {
-		  "foreground": "#d19a66"
+		  "foreground": "#FD971F"
 		}
 	  },
 	  {
@@ -359,28 +359,28 @@
 		  "keyword.operator.expression.keyof"
 		],
 		"settings": {
-		  "foreground": "#c678dd"
+		  "foreground": "#AE81FF"
 		}
 	  },
 	  {
 		"name": "js/ts console",
 		"scope": "support.type.object.console",
 		"settings": {
-		  "foreground": "#e06c75"
+		  "foreground": "#F92672"
 		}
 	  },
 	  {
 		"name": "js/ts support.variable.property.process",
 		"scope": "support.variable.property.process",
 		"settings": {
-		  "foreground": "#d19a66"
+		  "foreground": "#FD971F"
 		}
 	  },
 	  {
 		"name": "js console function",
 		"scope": "entity.name.function,support.function.console",
 		"settings": {
-		  "foreground": "#61afef"
+		  "foreground": "#66D9EF"
 		}
 	  },
 	  {
@@ -394,42 +394,42 @@
 		"name": "keyword.operator.sigil.rust",
 		"scope": "keyword.operator.sigil.rust",
 		"settings": {
-		  "foreground": "#c678dd"
+		  "foreground": "#AE81FF"
 		}
 	  },
 	  {
 		"name": "operator",
 		"scope": "keyword.operator.delete",
 		"settings": {
-		  "foreground": "#c678dd"
+		  "foreground": "#AE81FF"
 		}
 	  },
 	  {
 		"name": "js dom",
 		"scope": "support.type.object.dom",
 		"settings": {
-		  "foreground": "#56b6c2"
+		  "foreground": "#66D9EF"
 		}
 	  },
 	  {
 		"name": "js dom variable",
 		"scope": "support.variable.dom,support.variable.property.dom",
 		"settings": {
-		  "foreground": "#e06c75"
+		  "foreground": "#F92672"
 		}
 	  },
 	  {
 		"name": "keyword.operator",
 		"scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
 		"settings": {
-		  "foreground": "#56b6c2"
+		  "foreground": "#78DCE8"
 		}
 	  },
 	  {
 		"name": "C operator assignment",
 		"scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
 		"settings": {
-		  "foreground": "#c678dd"
+		  "foreground": "#AB9DF2"
 		}
 	  },
 	  {
@@ -520,35 +520,35 @@
 		"name": "Compound Assignment Operators",
 		"scope": "keyword.operator.assignment.compound",
 		"settings": {
-		  "foreground": "#c678dd"
+		  "foreground": "#AB9DF2"
 		}
 	  },
 	  {
 		"name": "Compound Assignment Operators js/ts",
 		"scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
 		"settings": {
-		  "foreground": "#56b6c2"
+		  "foreground": "#78DCE8"
 		}
 	  },
 	  {
 		"name": "Keywords",
 		"scope": "keyword",
 		"settings": {
-		  "foreground": "#c678dd"
+		  "foreground": "#AB9DF2"
 		}
 	  },
 	  {
 		"name": "Namespaces",
 		"scope": "entity.name.namespace",
 		"settings": {
-		  "foreground": "#e5c07b"
+		  "foreground": "#FD971F"
 		}
 	  },
 	  {
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#e06c75"
+		  "foreground": "#F92672"
 		}
 	  },
 	  {
@@ -562,7 +562,7 @@
 		"name": "Language variables",
 		"scope": "variable.language",
 		"settings": {
-		  "foreground": "#e5c07b"
+		  "foreground": "#E6DB74"
 		}
 	  },
 	  {
@@ -1055,7 +1055,7 @@
 		"name": "[VSCODE-CUSTOM] JSON Property Name",
 		"scope": "support.type.property-name.json",
 		"settings": {
-		  "foreground": "#e06c75"
+		  "foreground": "#F92672"
 		}
 	  },
 	  {
@@ -1321,7 +1321,7 @@
 		  "punctuation.section.embedded"
 		],
 		"settings": {
-		  "foreground": "#dd7878"
+		  "foreground": "#AE81FF"
 		}
 	  },
 	  {
@@ -1339,7 +1339,7 @@
 		  "keyword.operator.module"
 		],
 		"settings": {
-		  "foreground": "#c678dd"
+		  "foreground": "#AE81FF"
 		}
 	  },
 	  {
@@ -1384,7 +1384,7 @@
 		  "keyword.other.template.begin"
 		],
 		"settings": {
-		  "foreground": "#98c379"
+		  "foreground": "#c379bf",
 		}
 	  },
 	  {
@@ -1420,7 +1420,7 @@
 		  "keyword.operator.assignment"
 		],
 		"settings": {
-		  "foreground": "#56b6c2"
+		  "foreground": "#AE81FF",
 		}
 	  },
 	  {
@@ -1475,7 +1475,7 @@
 		  "constant.character.entity"
 		],
 		"settings": {
-		  "foreground": "#e06c75"
+		  "foreground": "#F92672"
 		}
 	  },
 	  {

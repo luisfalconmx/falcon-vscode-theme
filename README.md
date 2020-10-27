@@ -1,14 +1,11 @@
 <div align="center">
-    <img src="images/origin-250x250.png" width="200px">
-    <br>
-    <b style="font-size: 48px; color: #1d89ff;">Origin</b>
-    <p style="font-size: 32px;">VS Code Theme</p>
+    <img src="https://github.com/LuisFalconMX/origin/blob/main/images/origin-landscape.png?raw=true" width="80%">
 </div>
 
 <br>
 
 <div align="center">
-    <img src="images/origin-best-capture.png" width="90%" style="box-shadow: 0 0 60px #203eeb7e">
+    <img src="https://github.com/LuisFalconMX/origin/blob/main/images/origin-best-capture.png?raw=true" width="90%" style="box-shadow: 0 0 60px #203eeb7e">
 </div>
 
 <br>
@@ -18,7 +15,7 @@
 
 <div align="center">
     <div style="width: 80%">
-        <b style="font-size: 32px;">Based on the Seti UI theme from Sublime Text 3, Atom One Dark and Dobri Next Electron</b>
+        <h2 style="font-size: 32px;">Based on the Seti UI theme from Sublime Text 3, Atom One Dark and Dobri Next Electron</h2>
     </div>
 </div>
 
@@ -28,29 +25,25 @@
 <br>
 
 <div align="center">
-    <b style="font-size: 32px; writing-mode: tb-rl;">HTML</b>
-    <img src="images/origin-html-capture.png" width="90%">
+    <img src="https://github.com/LuisFalconMX/origin/blob/main/images/origin-html-capture.png?raw=true" width="90%">
 </div>
 
 <br>
 
 <div align="center">
-    <b style="font-size: 32px; writing-mode: tb-rl;">CSS</b>
-    <img src="images/origin-css-capture.png" width="90%">
+    <img src="https://github.com/LuisFalconMX/origin/blob/main/images/origin-css-capture.png?raw=true" width="90%">
 </div>
 
 <br>
 
 <div align="center">
-    <b style="font-size: 32px; writing-mode: tb-rl;">JAVASCRIPT</b>
-    <img src="images/origin-js-capture.png" width="90%">
+    <img src="https://github.com/LuisFalconMX/origin/blob/main/images/origin-js-capture.png?raw=true" width="90%">
 </div>
 
 <br>
 
 <div align="center">
-    <b style="font-size: 32px; writing-mode: tb-rl;">JSON</b>
-    <img src="images/origin-json-capture.png" width="90%">
+    <img src="https://github.com/LuisFalconMX/origin/blob/main/images/origin-json-capture.png?raw=true" width="90%">
 </div>
 
 
@@ -61,7 +54,7 @@
 
 <div align="center">
     <div style="width: 80%">
-        <b style="font-size: 32px;">INSTALL NOW AND ENJOY :)</b>
+        <h3 style="font-size: 32px;">INSTALL NOW AND ENJOY</h3>
         <br>
         <a style="font-size: 24px;" href="https://github.com/LuisFalconMX">LuisFalconMX</a>
     </div>

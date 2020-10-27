@@ -1,18 +1,44 @@
 {
-    "name": "origin",
-    "displayName": "origin",
-    "description": "",
-    "version": "0.0.1",
+    "name": "origin-theme",
+    "displayName": "Origin Theme",
+    "description": "Best Dark Theme for VSCode",
+    "publisher": "LuisFalconMX",
+    "author": {
+        "name": "Luis Falcon"
+    },
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LuisFalconMX/origin"
+    },
+    "bugs": {
+        "url": "https://github.com/LuisFalconMX/origin/issues"
+    },
+    "galleryBanner": {
+        "color": "#0437DE",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "luisfalconmx theme",
+        "Dark Theme",
+        "One Dark Pro",
+        "Monokai",
+        "Atom",
+        "Sublime Text",
+        "Theme",
+        "Blue",
+        "Cobalt"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "origin",
+                "label": "Origin Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/origin-color-theme.json"
             }

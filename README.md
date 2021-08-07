@@ -18,13 +18,6 @@ Theme inspired by react.js
 
 <br>
 
-<div align="center">
-  <img src="">
-</div>
-
-<br>
-<br>
-
 ## Releases
 
 List of published versions: https://github.com/luisfalconmx/react-theme/releases

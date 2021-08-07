@@ -1,71 +1,71 @@
 {
-    "name": "origin-theme",
-    "displayName": "Origin Theme",
-    "description": "Best Dark Theme for VSCode",
-    "publisher": "LuisFalconMX",
-    "license": "MIT",
-    "author": {
-        "name": "Luis Falcon"
-    },
-    "version": "1.1.0",
-    "engines": {
-        "vscode": "^1.50.0"
-    },
-    "homepage": "https://github.com/LuisFalconMX/origin",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/LuisFalconMX/origin"
-    },
-    "bugs": {
-        "url": "https://github.com/LuisFalconMX/origin/issues"
-    },
-    "galleryBanner": {
-        "color": "#0437DE",
-        "theme": "dark"
-    },
-    "icon": "images/origin-250x250.png",
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "Origin",
-        "Origin Theme",
-        "luisfalconmx theme",
-        "Dark Theme",
-        "One Dark Pro",
-        "Monokai",
-        "Atom",
-        "Sublime Text",
-        "Theme",
-        "Blue",
-        "Cobalt"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Origin Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/origin-color-theme.json"
-            }
-        ]
-    },
-    "dependencies": {
-        "eslint-config-prettier": "^8.3.0",
-        "prettier": "^2.3.2"
-    },
-    "devDependencies": {
-        "eslint": "^7.32.0",
-        "eslint-config-standard": "^16.0.3",
-        "eslint-plugin-import": "^2.23.4",
-        "eslint-plugin-node": "^11.1.0",
-        "eslint-plugin-promise": "^5.1.0",
-        "husky": "^7.0.1",
-        "lint-staged": "^11.1.2"
-    },
-    "lint-staged": {
-        "*.js": "eslint --cache --fix"
-    },
-    "scripts": {
-        "prepare": "husky install"
-    }
+  "name": "react-theme",
+  "displayName": "React Theme",
+  "description": "Theme inspired by react.js",
+  "publisher": "luisfalconmx",
+  "license": "MIT",
+  "author": {
+    "name": "luisfalconmx"
+  },
+  "version": "1.2.0",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "homepage": "https://github.com/luisfalconmx/react-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisfalconmx/react-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/luisfalconmx/react-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#0437DE",
+    "theme": "dark"
+  },
+  "icon": "images/react-icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "React",
+    "React Theme",
+    "dark theme",
+    "luisfalconmx theme",
+    "Dark Theme",
+    "One Dark Pro",
+    "Monokai",
+    "Atom",
+    "Sublime Text",
+    "Theme",
+    "Themes",
+    "Blue",
+    "Cobalt"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "React Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/react-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "husky": "^7.0.1",
+    "lint-staged": "^11.1.2"
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
 }

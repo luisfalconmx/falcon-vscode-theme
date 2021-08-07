@@ -1,2 +1,3 @@
 *.vsix
+.eslintcache
 node_modules/

@@ -1,7 +1,7 @@
 {
-  "name": "react-theme",
-  "displayName": "React Theme",
-  "description": "Theme inspired by react.js",
+  "name": "abstract",
+  "displayName": "Abstract",
+  "description": "Collection of themes for vscode",
   "publisher": "luisfalconmx",
   "license": "MIT",
   "author": {
@@ -11,25 +11,25 @@
   "engines": {
     "vscode": "^1.50.0"
   },
-  "homepage": "https://github.com/luisfalconmx/react-theme",
+  "homepage": "https://github.com/luisfalconmx/abstract",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luisfalconmx/react-theme"
+    "url": "https://github.com/luisfalconmx/abstract"
   },
   "bugs": {
-    "url": "https://github.com/luisfalconmx/react-theme/issues"
+    "url": "https://github.com/luisfalconmx/abstract/issues"
   },
   "galleryBanner": {
-    "color": "#0437DE",
+    "color": "#001929",
     "theme": "dark"
   },
-  "icon": "images/react-icon.png",
+  "icon": "images/abstract.png",
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "React",
-    "React Theme",
+    "Abstract",
+    "Abstract Theme",
     "dark theme",
     "luisfalconmx theme",
     "Dark Theme",
@@ -45,7 +45,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "React Theme",
+        "label": "React - Abstract",
         "uiTheme": "vs-dark",
         "path": "./themes/react-color-theme.json"
       }

@@ -1,51 +1,51 @@
 {
-  "name": "abstract",
-  "displayName": "Abstract",
-  "description": "Collection of themes for vscode",
+  "name": "vscode-react-theme",
+  "displayName": "react-theme",
+  "description": "VSCode theme inspired in react js",
   "publisher": "luisfalconmx",
   "license": "MIT",
-  "author": {
-    "name": "luisfalconmx"
-  },
-  "version": "1.0.0",
+  "author": "luisfalconmx",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.50.0"
   },
-  "homepage": "https://github.com/luisfalconmx/abstract",
+  "homepage": "https://github.com/luisfalconmx/vscode-react-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luisfalconmx/abstract"
+    "url": "https://github.com/luisfalconmx/vscode-react-theme"
   },
   "bugs": {
-    "url": "https://github.com/luisfalconmx/abstract/issues"
+    "url": "https://github.com/luisfalconmx/vscode-react-theme/issues"
   },
   "galleryBanner": {
-    "color": "#001929",
+    "color": "#18161E",
     "theme": "dark"
   },
-  "icon": "images/abstract.png",
+  "icon": "images/vscode-react-theme-logo.png",
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "Abstract",
-    "Abstract Theme",
+    "react",
+    "react theme",
     "dark theme",
+    "luisfalconmx",
     "luisfalconmx theme",
-    "Dark Theme",
-    "One Dark Pro",
-    "Monokai",
-    "Atom",
-    "Sublime Text",
-    "Theme",
-    "Themes",
-    "Blue",
-    "Cobalt"
+    "dark theme",
+    "one dark pro",
+    "palenight",
+    "monokai",
+    "atom",
+    "sublime text",
+    "theme",
+    "themes",
+    "blue",
+    "cobalt"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "React - Abstract",
+        "label": "React Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/react-color-theme.json"
       }

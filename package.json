@@ -1,34 +1,51 @@
 {
-  "name": "vscode-react-theme",
-  "displayName": "react-theme",
+  "name": "@luisfalconmx/blue-ocean-dark-theme",
+  "displayName": "blue-ocean-dark-theme",
   "description": "VSCode theme inspired in react js",
   "publisher": "luisfalconmx",
   "license": "MIT",
   "author": "luisfalconmx",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.50.0"
   },
-  "homepage": "https://github.com/luisfalconmx/vscode-react-theme",
+  "homepage": "https://github.com/luisfalconmx/blue-ocean-dark-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luisfalconmx/vscode-react-theme"
+    "url": "https://github.com/luisfalconmx/blue-ocean-dark-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/luisfalconmx/vscode-react-theme/issues"
+    "url": "https://github.com/luisfalconmx/blue-ocean-dark-theme/issues"
   },
   "galleryBanner": {
     "color": "#18161E",
     "theme": "dark"
   },
-  "icon": "images/vscode-react-theme-logo.png",
+  "icon": "images/icon.png",
   "categories": [
     "Themes"
   ],
   "keywords": [
+    "blue ocean dark theme",
+    "blue ocean dark",
+    "blue ocean",
+    "blue",
+    "ocean",
+    "dark",
+    "theme",
+    "vscode",
+    "luisfalconmx",
+    "luis",
+    "falcon",
+    "luisfalconmx/blue-ocean-dark-theme",
     "react",
     "react theme",
     "dark theme",
+    "dark",
+    "vscode",
+    "vscode theme",
+    "vscode-theme",
+    "vscode-extension",
     "luisfalconmx",
     "luisfalconmx theme",
     "dark theme",
@@ -37,35 +54,16 @@
     "monokai",
     "atom",
     "sublime text",
-    "theme",
     "themes",
-    "blue",
     "cobalt"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "React Theme",
+        "label": "Blue Ocean",
         "uiTheme": "vs-dark",
-        "path": "./themes/react-color-theme.json"
+        "path": "./blue-ocean-dark-theme.json"
       }
     ]
-  },
-  "devDependencies": {
-    "prettier": "^2.3.2",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint": "^7.32.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.23.4",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0",
-    "husky": "^7.0.1",
-    "lint-staged": "^11.1.2"
-  },
-  "lint-staged": {
-    "*.js": "eslint --cache --fix"
-  },
-  "scripts": {
-    "prepare": "husky install"
   }
 }

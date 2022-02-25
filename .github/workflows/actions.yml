@@ -1,12 +1,14 @@
+name: Deploy Extension
+
 on:
   push:
     branches:
       - main
 
-name: Deploy Extension
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2

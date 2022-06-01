@@ -99,6 +99,11 @@
         "label": "Falcon Theme (Aqua)",
         "uiTheme": "vs-dark",
         "path": "./themes/falcon-theme-aqua.json"
+      },
+      {
+        "label": "Falcon Theme (Sky)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/falcon-theme-sky.json"
       }
     ]
   }

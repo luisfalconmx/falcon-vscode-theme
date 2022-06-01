@@ -61,12 +61,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Falcon Theme - Default",
+        "label": "Falcon Theme (Default)",
         "uiTheme": "vs-dark",
         "path": "./themes/falcon-theme.json"
       },
       {
-        "label": "Falcon Theme - Purple",
+        "label": "Falcon Theme (Purple)",
         "uiTheme": "vs-dark",
         "path": "./themes/falcon-theme-purple.json"
       }

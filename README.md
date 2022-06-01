@@ -1,3 +1,3 @@
-# Blue Ocean Dark Theme
+# Falcon Theme
 
-![Blue Ocean Dark Theme Screenshot](./images/screenshot.png)
+![Falcon Theme Screenshot](./images/screenshot.png)

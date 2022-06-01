@@ -1,43 +1,44 @@
 {
-  "name": "blue-ocean-dark-theme",
-  "displayName": "Blue Ocean Dark Theme",
-  "description": "VSCode theme inspired in react js",
+  "name": "falcon-theme",
+  "displayName": "Falcon Theme",
+  "description": "VSCode Dark Theme created by luisfalconmx",
   "publisher": "luisfalconmx",
   "license": "MIT",
   "author": "luisfalconmx",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.50.0"
   },
-  "homepage": "https://github.com/luisfalconmx/blue-ocean-dark-theme",
+  "homepage": "https://github.com/luisfalconmx/falcon-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luisfalconmx/blue-ocean-dark-theme.git"
+    "url": "https://github.com/luisfalconmx/falcon-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/luisfalconmx/blue-ocean-dark-theme/issues"
+    "url": "https://github.com/luisfalconmx/falcon-theme/issues"
   },
   "galleryBanner": {
-    "color": "#18161E",
+    "color": "#070C13",
     "theme": "dark"
   },
-  "icon": "images/icon.png",
+  "icon": "images/falcon-theme-icon.png",
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "blue ocean dark theme",
-    "blue ocean dark",
-    "blue ocean",
+    "falcon dark theme",
+    "falcon dark",
+    "falcon-theme",
+    "falcon theme",
+    "falcon",
+    "theme falcon",
     "blue",
-    "ocean",
     "dark",
     "theme",
     "vscode",
     "luisfalconmx",
     "luis",
-    "falcon",
-    "luisfalconmx/blue-ocean-dark-theme",
+    "luisfalconmx/falcon-theme",
     "react",
     "react theme",
     "dark theme",
@@ -60,9 +61,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Blue Ocean",
+        "label": "Falcon Theme (default)",
         "uiTheme": "vs-dark",
-        "path": "./blue-ocean-dark-theme.json"
+        "path": "./themes/falcon-theme.json"
       }
     ]
   }

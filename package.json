@@ -84,6 +84,11 @@
         "label": "Falcon Theme (Orange)",
         "uiTheme": "vs-dark",
         "path": "./themes/falcon-theme-orange.json"
+      },
+      {
+        "label": "Falcon Theme (Yellow)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/falcon-theme-yellow.json"
       }
     ]
   }

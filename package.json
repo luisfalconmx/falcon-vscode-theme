@@ -63,7 +63,7 @@
       {
         "label": "Falcon Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme.json"
+        "path": "./themes/falcon-theme-default.json"
       },
       {
         "label": "Falcon Theme (Purple)",

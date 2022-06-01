@@ -1,41 +1,41 @@
 # Falcon Theme
 
-![Falcon Theme Screenshot](./images/theme-default.png)
+![theme-default](https://user-images.githubusercontent.com/57654255/171340854-8d16ffdc-ad42-4295-a5e0-c028e1ca17aa.png)
 
 ## Available colours
 
 ### Aqua
 
-![Falcon Theme - Aqua](./images/theme-aqua.png)
+![theme-aqua](https://user-images.githubusercontent.com/57654255/171340890-a9de6801-4019-4bf9-95d4-b3c76fbef60f.png)
 
 ### Blue
 
-![Falcon Theme - Blue](./images/theme-blue.png)
+![theme-blue](https://user-images.githubusercontent.com/57654255/171340908-c132847a-1f9a-4a72-81d3-fe906f2bfb68.png)
 
 ### Green
 
-![Falcon Theme - Green](./images/theme-green.png)
+![theme-green](https://user-images.githubusercontent.com/57654255/171340932-f46fa598-510c-4125-8e6c-f40ad65ba436.png)
 
 ### Orange
 
-![Falcon Theme - Orange](./images/theme-orange.png)
+![theme-orange](https://user-images.githubusercontent.com/57654255/171340943-97c665ca-d509-4de3-80f8-961b3dddfaf9.png)
 
 ### Pink
 
-![Falcon Theme - Pink](./images/theme-pink.png)
+![theme-pink](https://user-images.githubusercontent.com/57654255/171340954-6848134e-275b-46b8-aa87-c867904e951a.png)
 
 ### Purple
 
-![Falcon Theme - Purple](./images/theme-purple.png)
+![theme-purple](https://user-images.githubusercontent.com/57654255/171340975-cfb15391-564b-4266-aa94-8a09c738ce08.png)
 
 ### Red
 
-![Falcon Theme - Red](./images/theme-red.png)
+![theme-red](https://user-images.githubusercontent.com/57654255/171340993-858f6be9-1ab6-4f7d-8f4d-4f22947bb9b1.png)
 
 ### Sky
 
-![Falcon Theme - Sky](./images/theme-sky.png)
+![theme-sky](https://user-images.githubusercontent.com/57654255/171341003-b83fb2f6-115f-4418-9a8c-3c6e64afd4d3.png)
 
 ### Yellow
 
-![Falcon Theme - Yellow](./images/theme-yellow.png)
+![theme-yellow](https://user-images.githubusercontent.com/57654255/171341020-d4a07438-cf02-4716-910a-735f35d210c8.png)

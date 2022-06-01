@@ -89,6 +89,11 @@
         "label": "Falcon Theme (Yellow)",
         "uiTheme": "vs-dark",
         "path": "./themes/falcon-theme-yellow.json"
+      },
+      {
+        "label": "Falcon Theme (Green)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/falcon-theme-green.json"
       }
     ]
   }

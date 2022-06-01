@@ -1754,7 +1754,7 @@
     "activityBarBadge.foreground": "#F5F5F5",
     "badge.background": "#7130C3",
     "button.background": "#7130C3",
-    "debugToolBar.background": "#7130C3",
+    "debugToolBar.background": "#7130C31E",
     "dropdown.background": "#0b1015",
     "dropdown.border": "#0b1015",
     "editor.background": "#05080A",

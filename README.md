@@ -1,4 +1,14 @@
 <!-- START .github/README_TEMPLATE/theme.template.md -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luisfalconmx/falcon-theme/main/.github/screenshot.png" alt="Falcon Theme" width="100%" />
+</p>
+
+<h1 align="center">falcon-theme</h1>
+
+<p align="center">
+  <b>VSCode Dark Theme created by luisfalconmx</b><br />
+  <sub>Created with ❤️ by luisfalconmx</sub>
+</p>
 <!-- END .github/README_TEMPLATE/theme.template.md -->
 
 ![theme-default](https://user-images.githubusercontent.com/57654255/171340854-8d16ffdc-ad42-4295-a5e0-c028e1ca17aa.png)

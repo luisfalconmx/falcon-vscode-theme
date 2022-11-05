@@ -63,52 +63,7 @@
       {
         "label": "Falcon Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-default.json"
-      },
-      {
-        "label": "Falcon Theme (Purple)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-purple.json"
-      },
-      {
-        "label": "Falcon Theme (Pink)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-pink.json"
-      },
-      {
-        "label": "Falcon Theme (Red)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-red.json"
-      },
-      {
-        "label": "Falcon Theme (Orange)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-orange.json"
-      },
-      {
-        "label": "Falcon Theme (Yellow)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-yellow.json"
-      },
-      {
-        "label": "Falcon Theme (Green)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-green.json"
-      },
-      {
-        "label": "Falcon Theme (Aqua)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-aqua.json"
-      },
-      {
-        "label": "Falcon Theme (Sky)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-sky.json"
-      },
-      {
-        "label": "Falcon Theme (Blue)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-theme-blue.json"
+        "path": "./theme/falcon-theme.json"
       }
     ]
   }

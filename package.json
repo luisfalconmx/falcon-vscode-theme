@@ -1,7 +1,7 @@
 {
-  "name": "@luisfalconmx/falcon-theme",
+  "name": "falcon-theme",
+  "description": "Dark Theme for Visual Studio Code designed specifically to work with React.js. This theme offers dark contrasts with colorful tones.",
   "displayName": "Falcon Theme",
-  "description": "VSCode Dark Theme created by luisfalconmx",
   "publisher": "luisfalconmx",
   "license": "MIT",
   "author": "luisfalconmx",
@@ -9,13 +9,13 @@
   "engines": {
     "vscode": "^1.50.0"
   },
-  "homepage": "https://github.com/luisfalconmx/vscode-falcon-theme",
+  "homepage": "https://github.com/luisfalconmx/falcon-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luisfalconmx/vscode-falcon-theme.git"
+    "url": "https://github.com/luisfalconmx/falcon-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/luisfalconmx/vscode-falcon-theme/issues"
+    "url": "https://github.com/luisfalconmx/falcon-theme/issues"
   },
   "galleryBanner": {
     "color": "#070C13",

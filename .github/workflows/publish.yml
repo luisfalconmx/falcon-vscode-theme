@@ -1,4 +1,4 @@
-name: Deploy Extension
+name: Deploy Theme
 
 on:
   workflow_dispatch:
@@ -14,9 +14,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Publish Extension
+      - name: Publish Theme
         uses: lannonbr/vsce-action@master
         with:
           args: publish -p $VSCE_TOKEN

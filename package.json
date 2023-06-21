@@ -1,5 +1,5 @@
 {
-  "name": "falcon-theme",
+  "name": "@luisfalconmx/falcon-theme",
   "displayName": "Falcon Theme",
   "description": "VSCode Dark Theme created by luisfalconmx",
   "publisher": "luisfalconmx",
@@ -9,19 +9,19 @@
   "engines": {
     "vscode": "^1.50.0"
   },
-  "homepage": "https://github.com/luisfalconmx/falcon-theme",
+  "homepage": "https://github.com/luisfalconmx/vscode-falcon-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luisfalconmx/falcon-theme.git"
+    "url": "https://github.com/luisfalconmx/vscode-falcon-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/luisfalconmx/falcon-theme/issues"
+    "url": "https://github.com/luisfalconmx/vscode-falcon-theme/issues"
   },
   "galleryBanner": {
     "color": "#070C13",
     "theme": "dark"
   },
-  "icon": "images/falcon-theme-icon.png",
+  "icon": "images/luisfalconmx.png",
   "categories": [
     "Themes"
   ],

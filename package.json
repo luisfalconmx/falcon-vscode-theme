@@ -5,7 +5,7 @@
   "publisher": "luisfalconmx",
   "license": "MIT",
   "author": "luisfalconmx",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -61,9 +61,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Falcon Theme",
+        "label": "Falcon - React Theme",
         "uiTheme": "vs-dark",
-        "path": "./theme/falcon-theme.json"
+        "path": "./theme/react-theme.json"
+      },
+      {
+        "label": "Falcon - Vue Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/vue-theme.json"
+      },
+      {
+        "label": "Falcon - Angular Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/angular-theme.json"
       }
     ]
   }

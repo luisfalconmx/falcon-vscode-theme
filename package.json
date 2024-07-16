@@ -74,6 +74,16 @@
         "label": "Falcon - Angular Theme",
         "uiTheme": "vs-dark",
         "path": "./theme/angular-theme.json"
+      },
+      {
+        "label": "Falcon - Astro Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/astro-theme.json"
+      },
+      {
+        "label": "Falcon - JavaScript Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/javascript-theme.json"
       }
     ]
   }

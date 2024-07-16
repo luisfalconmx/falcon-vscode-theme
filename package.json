@@ -5,7 +5,7 @@
   "publisher": "luisfalconmx",
   "license": "MIT",
   "author": "luisfalconmx",
-  "version": "1.5.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.50.0"
   },
